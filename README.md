@@ -1,3 +1,7 @@
+> **Fork context:** this repository is a fork of [microsoft/alguidelines](https://github.com/microsoft/alguidelines). The documentation below retains the original project's authorship. Use the parent repository for its published releases and support guidance; this audit does not establish a separate maintained distribution or promise synchronization.
+>
+> [Compare this fork with its parent](https://github.com/microsoft/alguidelines/compare/main...javiarmesto:alguidelines:main). The comparison shows the current differences; fork-specific behavior must be assessed from those changes. Static documentation review: **6 October 2026**; no build, installation or service invocation performed.
+
 # alguidelines.dev Site Source Repo
 
 This is the source for the [alguidelines.dev](https://alguidelines.dev)
@@ -11,7 +15,7 @@ Please see the [ALGuidelines.dev](https://alguidelines.dev/) site for the full i
 ## Repo organization
 
 This is a [hugo](https://gohugo.io) statically-generated site, hosted
-on [GitHub Pages](https://https://pages.github.com).  The site is automatically built by
+on [GitHub Pages](https://pages.github.com).  The site is automatically built by
 GitHub Actions (see regen-gh-pages.yml).
 
 All site content is stored in the `content` directory in markdown format.
